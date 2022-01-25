@@ -1,0 +1,2 @@
+# Logistic Regression with Neural Networks mindset
+This section explores the Logistic regression model keeping the mindset of Neural Network. It demonstrates the model building and prediction to determine whether entered picture is a "cat" picture or a "non-cat" picture.
