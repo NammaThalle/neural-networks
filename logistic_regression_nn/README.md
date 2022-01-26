@@ -56,3 +56,4 @@ Model Training involves many steps
 2. Preprocess the data
 3. Train the model
 4. Plot the learning curve
+5. Testing with own image
