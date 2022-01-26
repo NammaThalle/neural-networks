@@ -1,6 +1,6 @@
 ipykernel
 numpy
 h5py
-scipy
+imageio
 matplotlib
 pandas
